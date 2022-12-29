@@ -24,3 +24,4 @@ Teacher does not know and cannot teach all paths so values a successful outcome.
 
 
 -->
+<a rel="me" href="https://defcon.social/@endless">Mastodon</a>
